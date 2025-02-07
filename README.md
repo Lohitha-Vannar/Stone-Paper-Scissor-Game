@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor-Game
-Game of Rock Paper Scissor By Lohitha-vannar
+<b> By Lohitha-vannar </b>
