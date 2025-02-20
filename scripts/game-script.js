@@ -1,5 +1,5 @@
 let score = JSON.parse(localStorage.getItem('score'))
-/* and this is also a shortcut by using OR operator || {
+/* and this is also a shortcut for using OR operator || {
 wins: 0,
 losses: 0,
 tie: 0
